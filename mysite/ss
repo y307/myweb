@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#cd ~/Data/GitHub/myweb/mysyte
+python manage.py runserver
